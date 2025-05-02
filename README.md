@@ -1,1 +1,4 @@
 # headgetplugin
+
+コマンド
+/head [mcid]
